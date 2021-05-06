@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mono-web-logic" />
+        <module name="mono-core-dao" />
+        <module name="mono-core-data" />
+        <module name="mono-core-service" />
+        <module name="mono-core-common" />
+        <module name="mono-core-service-impl" />
+        <module name="mono-core-persistence-data" />
+        <module name="mono-web" />
+        <module name="mono-core-utils" />
+        <module name="mono-core-dto" />
+        <module name="mono-core-dao-imp" />
+        <module name="mono-core-test" />
+        <module name="mono-core-web" />
+        <module name="mono-core-dao-impl" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
